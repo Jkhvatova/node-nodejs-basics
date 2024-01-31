@@ -14,4 +14,3 @@ const write = async () => {
 await write();
 
 
-wj
